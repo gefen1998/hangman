@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  /* Add some styling in index.css to see the effects for yourself ;) */
+  .selected {
+    color: darkred;
+    font-size: 21px;
+    font-weight: bold;
+    text-decoration-line: line-through;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
